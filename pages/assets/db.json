@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "nombre": "Verano",
+      "linea": "Estaciones",
+      "description": "Cuando estalla el VERANO, la nueva temporada trae aromas que son una fiesta: Aromas cítricos, florales, frescos y a frutas tropicales que nos conectan con la naturaleza, nos energizan y estimulan de manera positiva",
+      "id": 1
+    },
+    {
+      "nombre": "Otono",
+      "linea": "Estaciones",
+      "description": "Llegan las lluvias, baja el calor agobiante, y el viento refresca el ambiente. Surgen nuevos aromas de tierra, caen las hojas, muchas flores desaparecen, pero abundan los frutos. Los hogares se preparan para en lugares cálidos, reparadores y relajantes. Aromas como manzana, vainilla, cítricos, canela. Los aromas de otoños nos evocan las cocinas de nuestras abuelas, con recetas y dulces caseros. ",
+      "id": 2
+    },
+    {
+      "nombre": "Invierno",
+      "linea": "Estaciones",
+      "description": "El invierno es la estación donde más disfrutamos de permanecer en nuestros hogares, es la oportunidad perfecta para convertir los espacios en lugares agradables y potenciarlos con aromas. Una taza de café, una copa de vino, un rico te, el intenso sabor de un rico chocolate, el calor del fuego, una manta calentita, un libro, un peli.. el placer de estar en casa.Aromas relajantes, dulces, especiados y cálidos. ",
+      "id": 3
+    },
+    {
+      "nombre": "Primavera",
+      "linea": "Estaciones",
+      "description": "La estación del año que implica una revolución de colores y aromas. Sentimos ganas de encarar nuevos proyectos, de salir, de soñar miles de posibilidades. Una ola de energía positiva nos invade y nos sentimos con buenas vibras. Las calles de llenas de flores y aromas, el clima se torna más cálidos y agradables, los días se alargan. En cuanto a los aromas, dejamos atrás las notas intensas del invierno para dar lugar a las notas florales y frutales, también hacen su entrada los aromas amaderados, a tierra mojada, a pastos húmedos. ",
+      "id": 4
+    },
+    {
+      "nombre": "Tutti Frutti",
+      "linea": "Chicle",
+      "description": "Mix frutal, dulce e intenso",
+      "id": 5
+    }
+  ],
+  "nosotros": [
+    {
+      "description": "Soul es un emprendimiento joven que nació en el 31 de diciembre del 2018 con una idea renovadora en el concepto de perfumes textiles y difusores de ambientes.\n\nSu creadora fue Gise, quien pensó el nombre “Soul” con mucho amor, significa “Alma”. Todos los sentidos son importantes pero el Olfato nos trae muchos recuerdos y alegra el alma, es por eso el nombre “Soul”, realizamos los productos con el alma. Después de un tiempo de impasse y pandemia se sumó a esta locura Sonia,  que con optimismo, con entusiasmo y compromiso alentó a poner de nuevo en marcha este hermoso proyecto que al inhalar te transporte a un mundo lleno de aromas y fragancias. Así fue el renacer de SOUL.\n\nHoy nos dedicamos a desarrollar diversas líneas de productos, pensados para aromatizar y reconfortar nuestros espacios de vida. Comercializamos nuestros productos a través de las redes a todo el país. En Soul nos destacamos por nuestros productos realizados con esencias de primerísima calidad. Nuestro compromiso es acercarles productos creados con la mayor dedicación y trabajar permanentemente en la búsqueda de nuevas ideas."
+    }
+  ]
+}
