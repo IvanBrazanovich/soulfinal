@@ -12,6 +12,10 @@ export default function Home() {
       <Head>
         <title>Soul Productos Aromáticos</title>
         <meta
+          name="google-site-verification"
+          content="HIUITxzj91bk7zGKY9tQX44_gvW0-WJRfTGeoG7MDw4"
+        />
+        <meta
           name="description"
           content="Soul - Tienda de Productos aromáticos"
         />
