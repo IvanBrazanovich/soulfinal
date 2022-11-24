@@ -6,15 +6,15 @@ const Productos = ({ handleScroll }) => {
   const { productos } = productosDatabase;
   const [productoActive, setActiveProduct] = useState();
 
+  const changeProductoActive = (id) => {
+    const productArr = productos.filter((item) => item.id === id);
+
+    setActiveProduct(productArr[0]);
+  };
+
   useEffect(() => {
-    const changeProductoActive = (id) => {
-      const productArr = productos.filter((item) => item.id === id);
-
-      setActiveProduct(productArr[0]);
-    };
-
     changeProductoActive(1);
-  }, [productoActive, productos]);
+  }, []);
 
   return (
     <section
